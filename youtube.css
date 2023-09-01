@@ -1,0 +1,127 @@
+.cont1{
+    display: flex;
+}
+input{
+    padding: 0px;
+    margin: 0px;
+    height: auto;
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
+    border-color: #d3d3d3;
+    border-top: solid;
+    border-color: #d3d3d3;
+    border-left: none;
+    border-width: 2px;
+    width: 500px;
+    outline: none;
+    padding-right: 10px;
+}
+.a{
+    width:32px;
+    height:32px;
+    background-color: blueviolet;
+    color:white;
+    padding:3px;
+}
+i{
+    padding:7px;
+    width:32px;
+    height:32px;  
+}
+.fa-microphone{
+    margin-left: 150px;
+    background-color: #eee;
+}
+.glass{
+    border-top-left-radius: 15px;
+    border: 2px solid #d3d3d3;
+    background-color:#f8f8f8;
+    width:55px;
+    height:35px;
+    border-bottom-left-radius: 15px;
+}
+.glass:hover{
+    background-color: #eee;
+}
+.fa-keyboard{
+    border-top:2px solid #d3d3d3 ;
+    border-bottom:2px solid #d3d3d3 ;
+    height:35px;
+}
+.youtube{
+    width:100px;
+    height:35px;
+    position: absolute;
+    right:60px;
+}
+button{
+    border:none;
+    position: absolute;
+    background-color: white;
+    margin-top:5px;
+    right:20px;
+}
+p{
+    font-size:10px ;
+}
+.icons{
+    position: absolute;
+    right:15px;
+    top:80px;
+    display: inline-block;
+}
+.icons div{
+    color:black;
+    width:50px;
+    padding-top: 10px;
+}
+.icons span{
+    color:black;
+    font-size: 12px;
+}
+.figures span{
+    background-color:#f8f8f8;
+    padding:5px;
+    cursor: pointer;
+}
+.figures{
+    position: absolute;
+    right:120px;
+    padding-top: 20px;
+}
+.figures span:hover{
+    background-color: #eee;
+}
+.card1{
+    position: relative;
+}
+.text{
+    direction: rtl;
+    position: absolute;
+    right:65px;
+    top:200px;
+}
+.p2{
+    font-size: 15px;
+}
+.p3{
+    font-size: 15px;
+}
+.a2{
+    position:absolute;
+    right: 20px;
+    top:200px;
+}
+.card1 img{
+    width: 100%;
+    border:solid 1px white;
+    border-radius: 10px;
+}
+.row{
+    position: absolute;
+    right: 130px;
+    margin-top: 80px;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+    margin-left: 20px;
+}
